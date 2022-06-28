@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactWeb/static/css/main.64ebd5d5.css",
+    "main.js": "/ReactWeb/static/js/main.cf6a7674.js",
+    "static/media/4.jpg": "/ReactWeb/static/media/4.daa998c78c732c2d31c1.jpg",
+    "static/media/3.jpg": "/ReactWeb/static/media/3.2010568daf7eed6ca378.jpg",
+    "static/media/6.jpg": "/ReactWeb/static/media/6.72ec498b12cd525690e2.jpg",
+    "static/media/5.jpg": "/ReactWeb/static/media/5.0fbdd6a3cda3bd34ede7.jpg",
+    "static/media/1.jpg": "/ReactWeb/static/media/1.3873b8f42370d3d157ea.jpg",
+    "static/media/2.jpg": "/ReactWeb/static/media/2.916289aa065c35b5621b.jpg",
+    "static/media/1.svg": "/ReactWeb/static/media/1.ae32c8c1aa61d2fd8f27076514fcac77.svg",
+    "static/media/2.svg": "/ReactWeb/static/media/2.5649fabed02b25a0c3482eb3ea7efdd7.svg",
+    "index.html": "/ReactWeb/index.html",
+    "static/media/list.svg": "/ReactWeb/static/media/list.f98b98b4905b36b844a65327ecaadc32.svg",
+    "main.64ebd5d5.css.map": "/ReactWeb/static/css/main.64ebd5d5.css.map",
+    "main.cf6a7674.js.map": "/ReactWeb/static/js/main.cf6a7674.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64ebd5d5.css",
+    "static/js/main.cf6a7674.js"
+  ]
+}
